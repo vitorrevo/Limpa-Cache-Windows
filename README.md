@@ -1,0 +1,1 @@
+# Limpa-Cache-Windows
